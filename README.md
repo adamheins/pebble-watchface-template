@@ -6,4 +6,4 @@ template includes a basic intro animation and a flexible model system.
 This template works with the basalt and chalk versions of the Pebble SDK.
 
 ## License
-Licensed under the [WTFPL](http://www.wtfpl.net/txt/copying/).
+MIT License. See the LICENSE file for details.
